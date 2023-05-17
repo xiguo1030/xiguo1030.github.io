@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our Paper titled “An Accurate and Hardware-Efficient Dual Spike Detector for Implantable Neural Interfaces” got accepted as oral presentation at IEEE BioCAS 2022
