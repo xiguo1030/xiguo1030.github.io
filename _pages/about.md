@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://www.ce.cit.tum.de/caps/startseite/">Chair of Computer Architecture and Parallel Systems</a>
+subtitle: <a href="https://www.ce.cit.tum.de/caps/startseite/">Chair of Computer Architecture and Parallel Systems (CAPS)</a>
 
 profile:
   align: right
