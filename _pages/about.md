@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Ph.D. student at <a href="https://www.ce.cit.tum.de/caps/startseite/">Chair of Computer Architecture and Parallel Systems</a>
 
 profile:
   align: right
