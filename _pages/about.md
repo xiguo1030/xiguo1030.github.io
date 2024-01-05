@@ -18,7 +18,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-My name is Xiaorang Guo. I’m a first-year PhD student in Department of Informatics at the Technical University of Munich (TUM). My advisor is Prof. Dr. Martin Schulz. I have received my bachelor's and master's degrees in electrical engineering, from Harbin Institute of Technology and Technische Universität Dresden, respectively.
+My name is Xiaorang Guo. I’m a PhD student in Department of Informatics at the Technical University of Munich (TUM). My advisor is Prof. Dr. Martin Schulz. I have received my bachelor's and master's degrees in electrical engineering, from Harbin Institute of Technology and Technische Universität Dresden, respectively.
 
 I am interested in digital circuit design and quantum computing. Currently, I’m focusing on designing a quantum control processor based on the FPGA board. My ultimate goal is to provide a scalable instruction set and architectural design of the quantum control processor for various physical platforms such as superconducting qubits, neutral atoms, and ion traps.
 
