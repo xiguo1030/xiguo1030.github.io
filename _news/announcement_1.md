@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-10-10 
-inline: true
+inline: false
 related_posts: false
 ---
 
