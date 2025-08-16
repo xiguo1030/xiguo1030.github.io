@@ -2,9 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Xiaorang guo
+      value: Xiaorang Guo
     - name: Languages
-      value: English, German, Chinese
+      value: English, Chinese, German, French
 
 - title: Education
   type: time_table
